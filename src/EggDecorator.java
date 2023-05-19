@@ -8,6 +8,6 @@ public class EggDecorator implements Egg{
 
     @Override
     public void decorate() {
-    //todo
+
     }
 }
